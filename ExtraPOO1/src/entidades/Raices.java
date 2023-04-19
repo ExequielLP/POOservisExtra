@@ -14,6 +14,7 @@ public class Raices {
     private double a;
     private double b;
     private double c;
+    private String maurocapo;
 
     public Raices() {
     }
